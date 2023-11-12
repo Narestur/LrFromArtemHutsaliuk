@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <div>
+        @Html.Hidden("formId")
+    </div>
+    <div>
+        @Html.Label("fullName","Full Name")
+        @Html.TextBox("fullName","LR 6",new {style="background-color:black;color:white;",title="Enter Full Name"})
+    </div>
+    <br /><div>
+        @Html.Label("password","Password")
+        @Html.Password("password")
+    </div>
+    <br /><div>
+        @Html.Label("comments","Comments")
+        @Html.TextArea("comments","",3,30,new {style="background-color:black;color:white;"})
+    </div>
+    @Html.ActionLink("Privacy","Privacy","Home")
+    @Html.Raw("<h1>Hello World!</h1>")
+</div>
