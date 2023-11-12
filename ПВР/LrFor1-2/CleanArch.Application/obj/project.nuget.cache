@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YXrHafjRr/dtFN8+EFAuzInN7hI3BPdWK80gOVZaYGk4mxpIzWw66g2ub2vFqsok1Yh6Nz21iSYJyp5OtOh7gg==",
+  "success": true,
+  "projectFilePath": "D:\\Лабораторні Роботи\\ПВР\\CleanArchitetureProject-master\\CleanArch.Application\\CleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artem\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\Artem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

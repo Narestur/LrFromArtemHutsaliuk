@@ -1,0 +1,17 @@
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.deps.json
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.runtimeconfig.json
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Infra.Data.pdb
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Domain.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\bin\Debug\net6.0\CleanArch.Domain.pdb
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.csproj.AssemblyReference.cache
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.AssemblyInfo.cs
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.csproj.CopyComplete
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\refint\CleanArch.Infra.Data.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.pdb
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\CleanArch.Infra.Data.genruntimeconfig.cache
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Infra.Data\obj\Debug\net6.0\ref\CleanArch.Infra.Data.dll

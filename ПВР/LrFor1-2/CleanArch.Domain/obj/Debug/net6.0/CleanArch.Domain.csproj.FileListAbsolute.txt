@@ -1,0 +1,11 @@
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.deps.json
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\bin\Debug\net6.0\CleanArch.Domain.pdb
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfoInputs.cache
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.AssemblyInfo.cs
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.csproj.CoreCompileInputs.cache
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\refint\CleanArch.Domain.dll
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\CleanArch.Domain.pdb
+D:\Лабораторні Роботи\ПВР\CleanArchitetureProject-master\CleanArch.Domain\obj\Debug\net6.0\ref\CleanArch.Domain.dll
